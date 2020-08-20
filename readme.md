@@ -4,7 +4,7 @@ Unsafe versions of standard library `From<T>` and `Into<T>`.
 
 ```toml
 [dependencies]
-unsafe_from = "1.0"
+unsafe_from = "1.0.0"
 ```
 
 # Use 

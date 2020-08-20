@@ -1,6 +1,6 @@
 [package]
 name = "unsafe_from"
-version = "1.0"
+version = "1.0.0"
 description = "Unsafe versions of standard library `From<T>` and `Into<T>`."
 authors = ["prostomarkeloff <28061158+prostomarkeloff@users.noreply.github.com>"]
 edition = "2018"
